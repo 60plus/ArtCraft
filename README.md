@@ -1,5 +1,11 @@
 # ArtCraft in Docker
 
+[![Docker pulls](https://img.shields.io/docker/pulls/60plus/artcraft)](https://hub.docker.com/r/60plus/artcraft)
+[![Docker image version](https://img.shields.io/docker/v/60plus/artcraft?sort=semver&label=version)](https://hub.docker.com/r/60plus/artcraft/tags)
+[![Docker image size](https://img.shields.io/docker/image-size/60plus/artcraft/latest?label=image%20size)](https://hub.docker.com/r/60plus/artcraft/tags)
+[![GitHub stars](https://img.shields.io/github/stars/60plus/ArtCraft?style=flat&logo=github)](https://github.com/60plus/ArtCraft/stargazers)
+[![Buy me a beer](https://img.shields.io/badge/%F0%9F%8D%BA-Buy%20me%20a%20beer-FFDD00?labelColor=FFDD00)](https://buymeacoffee.com/60plus)
+
 ArtCraft Launcher and 13 Craft App Suite applications in a single container,
 accessible through a web browser. The suite includes tools for photography,
 graphics, video editing, visual effects, audio, documents, and design.
