@@ -1,0 +1,11 @@
+#!/bin/sh
+set -eu
+app="${CRAFT_APP:-artcraft-launcher}"
+case "$app" in
+  artcraft-launcher|photocraft|effectcraft|filmcraft|lightcraft|vectorcraft|pdfcraft|wordcraft|designcraft|deckcraft|gridcraft|cadcraft|soundcraft|figcraft) ;;
+  *) printf 'Unknown CRAFT_APP: %s\n' "$app" >&2; exit 2 ;;
+esac
+mkdir -p /config/craft-suite/logs
+python3 /usr/local/bin/craft-shared-files.py
+cd /projects
+exec "$app" >>"/config/craft-suite/logs/$app.log" 2>&1

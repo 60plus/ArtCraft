@@ -1,0 +1,5 @@
+.env
+data/
+*.log
+evidence/
+DOSTEP.txt

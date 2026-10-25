@@ -1,0 +1,118 @@
+{
+  "created": "2026-10-25",
+  "platform": "linux-x86_64",
+  "releases": [
+    {
+      "name": "photocraft",
+      "tag": "v0.15.1",
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.15.1/photocraft-0.15.1-linux-x86_64.deb",
+      "file": "photocraft-0.15.1-linux-x86_64.deb",
+      "digest": "sha256:28eb2b4133240374a96184f983e51b9759656f6ba467cbef528e999b701fd8f3",
+      "checksums": "https://github.com/storytold/photocraft/releases/download/v0.15.1/SHA256SUMS.txt"
+    },
+    {
+      "name": "effectcraft",
+      "tag": "v0.16.0",
+      "url": "https://github.com/storytold/effectcraft/releases/download/v0.16.0/effectcraft-0.16.0-linux-x86_64.deb",
+      "file": "effectcraft-0.16.0-linux-x86_64.deb",
+      "digest": "sha256:fcc80df074673dffaabc8417a677054235a3a4cab18139f44ce98320230f4526",
+      "checksums": "https://github.com/storytold/effectcraft/releases/download/v0.16.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "filmcraft",
+      "tag": "v0.12.0",
+      "url": "https://github.com/storytold/filmcraft/releases/download/v0.12.0/filmcraft-0.12.0-linux-x86_64.deb",
+      "file": "filmcraft-0.12.0-linux-x86_64.deb",
+      "digest": "sha256:d8e4a2eea65ba65a81f9ef2a128f104ed3a1e38056fea417e8829731772c2031",
+      "checksums": "https://github.com/storytold/filmcraft/releases/download/v0.12.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "lightcraft",
+      "tag": "v0.13.0",
+      "url": "https://github.com/storytold/lightcraft/releases/download/v0.13.0/lightcraft-0.13.0-linux-x86_64.deb",
+      "file": "lightcraft-0.13.0-linux-x86_64.deb",
+      "digest": "sha256:4dcd2437fe42e91a5cd5ea3481ef77b5ed675ef37131f0ccb97702fff298550d",
+      "checksums": "https://github.com/storytold/lightcraft/releases/download/v0.13.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "vectorcraft",
+      "tag": "v0.16.0",
+      "url": "https://github.com/storytold/vectorcraft/releases/download/v0.16.0/vectorcraft-0.16.0-linux-x86_64.deb",
+      "file": "vectorcraft-0.16.0-linux-x86_64.deb",
+      "digest": "sha256:c9dbd6c82f28247a005846f1123144161148895cd7b5ccd21ae419de3f2631ac",
+      "checksums": "https://github.com/storytold/vectorcraft/releases/download/v0.16.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "pdfcraft",
+      "tag": "v0.13.0",
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.13.0/pdfcraft-0.13.0-linux-x86_64.deb",
+      "file": "pdfcraft-0.13.0-linux-x86_64.deb",
+      "digest": "sha256:4f512eb936e3757cda98d5e5e41b7bfe5e0be7eb6850f5a0004be30d606e6774",
+      "checksums": "https://github.com/storytold/pdfcraft/releases/download/v0.13.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "wordcraft",
+      "tag": "v0.10.0",
+      "url": "https://github.com/storytold/wordcraft/releases/download/v0.10.0/wordcraft-0.10.0-linux-x86_64.deb",
+      "file": "wordcraft-0.10.0-linux-x86_64.deb",
+      "digest": "sha256:64d86949373c178397a4f25d8ed52d346cf2ea46c2296e7cf648e409b98298a2",
+      "checksums": "https://github.com/storytold/wordcraft/releases/download/v0.10.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "designcraft",
+      "tag": "v0.12.0",
+      "url": "https://github.com/storytold/designcraft/releases/download/v0.12.0/designcraft-0.12.0-linux-x86_64.deb",
+      "file": "designcraft-0.12.0-linux-x86_64.deb",
+      "digest": "sha256:b040af8d6a4cbcfc3efc062611fed428ab144ce9b88e5081bf047fc5df479e9e",
+      "checksums": "https://github.com/storytold/designcraft/releases/download/v0.12.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "deckcraft",
+      "tag": "v0.10.0",
+      "url": "https://github.com/storytold/deckcraft/releases/download/v0.10.0/deckcraft-0.10.0-linux-x86_64.deb",
+      "file": "deckcraft-0.10.0-linux-x86_64.deb",
+      "digest": "sha256:e899616ded007a5f2a4cc535469a1339df4217e3e4df87d181c8e4283771ed08",
+      "checksums": "https://github.com/storytold/deckcraft/releases/download/v0.10.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "gridcraft",
+      "tag": "v0.11.1",
+      "url": "https://github.com/storytold/gridcraft/releases/download/v0.11.1/gridcraft-0.11.1-linux-x86_64.deb",
+      "file": "gridcraft-0.11.1-linux-x86_64.deb",
+      "digest": "sha256:45afd336d8053dfd152ff9a2914fc269e435d4a347293e9f48c84d9bfef2581e",
+      "checksums": "https://github.com/storytold/gridcraft/releases/download/v0.11.1/SHA256SUMS.txt"
+    },
+    {
+      "name": "cadcraft",
+      "tag": "v0.12.0",
+      "url": "https://github.com/storytold/cadcraft/releases/download/v0.12.0/cadcraft-0.12.0-linux-x86_64.deb",
+      "file": "cadcraft-0.12.0-linux-x86_64.deb",
+      "digest": "sha256:239ddb98a0fd4fa97e62c53de93a5aa286b93d88c328776a4d09b539390c92dd",
+      "checksums": "https://github.com/storytold/cadcraft/releases/download/v0.12.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "soundcraft",
+      "tag": "v0.12.1",
+      "url": "https://github.com/storytold/soundcraft/releases/download/v0.12.1/soundcraft-0.12.1-linux-x86_64.deb",
+      "file": "soundcraft-0.12.1-linux-x86_64.deb",
+      "digest": "sha256:6d05fc30b9277cd62ca3b37468e3851bed69c0aac0a41251088925a2395b86be",
+      "checksums": "https://github.com/storytold/soundcraft/releases/download/v0.12.1/SHA256SUMS.txt"
+    },
+    {
+      "name": "figcraft",
+      "tag": "v0.10.0",
+      "url": "https://github.com/storytold/figcraft/releases/download/v0.10.0/figcraft-0.10.0-linux-x86_64.deb",
+      "file": "figcraft-0.10.0-linux-x86_64.deb",
+      "digest": "sha256:ed991473b2795e7ee870308c03c3477090c629ff036bc3102c9ab45ba5db43f9",
+      "checksums": "https://github.com/storytold/figcraft/releases/download/v0.10.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "craft-launcher",
+      "tag": "v0.7.0",
+      "url": "https://github.com/storytold/craft-launcher/releases/download/v0.7.0/artcraft-launcher-0.7.0-linux-x86_64.deb",
+      "file": "artcraft-launcher-0.7.0-linux-x86_64.deb",
+      "digest": "sha256:5636fd91b36b1ee6ef08d6b3e3bc568078ff2220aaaad459013cee2e3ce132ce",
+      "checksums": "https://github.com/storytold/craft-launcher/releases/download/v0.7.0/SHA256SUMS.txt"
+    }
+  ]
+}

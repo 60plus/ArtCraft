@@ -1,0 +1,9 @@
+.git
+.env
+data
+evidence
+*.log
+README.md
+docs/
+DOSTEP.txt
+craft-suite.service

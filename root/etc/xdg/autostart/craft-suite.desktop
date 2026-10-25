@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Craft Suite
+Comment=Choose a creative application
+Exec=/usr/local/bin/craft-start
+Terminal=false
+X-GNOME-Autostart-enabled=true
